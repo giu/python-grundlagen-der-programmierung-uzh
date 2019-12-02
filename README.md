@@ -8,4 +8,4 @@ In diesem Repository findet ihr den kompletten Code (Live-Coding Sessions und Mu
  * [APPE6: Python - Grundlagen der Programmierung](https://github.com/giu/appe-uzh/tree/kurs/appe6-uzh-hs2018) (Herbstsemester 2018)
  * [APPE5: Python - Grundlagen der Programmierung](https://github.com/giu/appe-uzh/tree/kurs/appe5-uzh-fs2018) (Frühjahrssemester 2018)
 
-Weitere Details und Links zu den einzelnen Kursen findet ihr in der entsprechenden `README` Datei der einzelnen Kurse.
+Weitere Details und Links zu den einzelnen Kursen findet ihr in der entsprechenden `README` Datei eines Kurses.
