@@ -1,4 +1,4 @@
-# Python - Grundlagen der Programmierung @ Universität Zürich 
+# Python - Grundlagen der Programmierung
 ## Kompletter Code zu APPE4, APPE5, und APPE6
 
 In diesem Repository findet ihr den kompletten Code (Live-Coding Sessions und Musterlösungen zu den Übungen) zu meinen _Python - Grundlagen der Programmierung_ Kursen an der Universität Zürich:
