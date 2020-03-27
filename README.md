@@ -3,7 +3,7 @@
 
 In diesem Repository findet ihr den kompletten Code (Live-Coding Sessions und Musterlösungen zu den Übungen) zu meinen _Python - Grundlagen der Programmierung_ Kursen an der Universität Zürich:
 
- * [APPE3: Python - Grundlagen der Programmierung](https://github.com/giu/python-grundlagen-der-programmierung-uzh/tree/kurs/appe3-uzh-fs2020) (Frühjahrssemester 2019)
+ * [APPE3: Python - Grundlagen der Programmierung](https://github.com/giu/python-grundlagen-der-programmierung-uzh/tree/kurs/appe3-uzh-fs2020) (Frühjahrssemester 2020)
  * [APPE4: Python - Grundlagen der Programmierung](https://github.com/giu/python-grundlagen-der-programmierung-uzh/tree/kurs/appe4-uzh-hs2019) (Herbstsemester 2019)
  * [APPE5: Python - Grundlagen der Programmierung](https://github.com/giu/python-grundlagen-der-programmierung-uzh/tree/kurs/appe5-uzh-fs2019) (Frühjahrssemester 2019)
  * [APPE6: Python - Grundlagen der Programmierung](https://github.com/giu/python-grundlagen-der-programmierung-uzh/tree/kurs/appe6-uzh-hs2018) (Herbstsemester 2018)
