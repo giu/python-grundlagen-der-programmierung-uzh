@@ -1,4 +1,4 @@
-# Python - Grundlagen der Programmierung (Universität Zürich)
+# Python - Grundlagen der Programmierung
 
 In diesem Repository findet ihr den kompletten Code (Live-Coding Sessions und Musterlösungen zu den Übungen) zu meinen _Python - Grundlagen der Programmierung_ Kurs an der Universität Zürich.
 
